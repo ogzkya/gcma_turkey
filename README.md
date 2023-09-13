@@ -1,8 +1,23 @@
 # GCMA
  Global Crisis Management Application
 
-## headings
+<div class="row">
+  <div class="col-md-12">
+    <h2>Screenshots and codes of the application //  </h2>
+   <p>This application is designed as part of the predictive model DPM.</p>
+   <p>You can find the instructions below for running the application</p>
+  </div>
+</div>
 
-### headings
- 
-https://github.com/ogzkya/gcma_v1/issues/1#issue-1893177988
+<div class="row">
+  <div class="col-md-6">
+    <img src="screenshot/anamenu.png" alt="Screenshot 1" class="img-fluid">
+    <caption>Screenshot 1 Başlığı</caption>
+    <p>Screenshot 1 Açıklaması</p>
+  </div>
+  <div class="col-md-6">
+    <img src="screenshot/anamenu.png" alt="Screenshot 2" class="img-fluid">
+    <caption>Screenshot 2 Başlığı</caption>
+    <p>Screenshot 2 Açıklaması</p>
+  </div>
+</div>
