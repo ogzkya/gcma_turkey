@@ -1,4 +1,5 @@
-# GCMA
+# GCMA - 
+
  Global Crisis Management Application
 
 <div class="row">
@@ -11,7 +12,7 @@
 
 <div class="row">
   <div class="col-md-6">
-   <h3>test</h3>
+   <h3>Administrator Screen</h3>
     <img src="screenshot/anamenu.png" alt="Screenshot 1" class="img-fluid">
     <caption>Screenshot 1 Başlığı</caption>
     <p>Screenshot 1 Açıklaması</p>
