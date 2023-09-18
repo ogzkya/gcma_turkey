@@ -18,19 +18,25 @@
   </div>
   
   <div class="col-md-6">
-   <h3>Login</h3>
-   <p>test</p>
+   <h3>damage map</h3>
+   <p>regional damage data</p>
     <img src="screenshot/mahalle2.png" alt="Screenshot 2" class="img-fluid">
   </div>
   <div class="col-md-6">
-   <h3>test</h3>
-   <p>test</p>
+   <h3>damage map</h3>
+   <p>regional damage list data </p>
     <img src="screenshot/mahalle3.png" " class="img-fluid">
   </div>
- <div class="col-md-6">
-  <h3>test</h3>
-  <p>test</p>
-  <img src="screenshot/anamenu.png" alt="Screenshot 2" class="img-fluid">
- 
   
+ <div class="col-md-6">
+  <h3>Login Screen</h3>
+ 
+  <img src="screenshot/login.png" class="img-fluid">  
 </div>
+
+ <div class="col-md-6">
+  <h3>Register Screen </h3>
+ 
+  <img src="screenshot/register.png" class="img-fluid">  
+</div>
+
