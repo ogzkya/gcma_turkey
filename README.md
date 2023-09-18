@@ -13,25 +13,24 @@
 <div class="row">
   <div class="col-md-6">
    <h3>Administrator Screen</h3>
-    <img src="screenshot/anamenu.png" alt="Screenshot 1" class="img-fluid">
-   
-    <p>Screenshot 1 Açıklaması</p>
+    <p>water destinations, critical areas, earthquake damage map, regional damage map, user authorization area, etc. You can access the screens from this screen.</p>
+    <img src="screenshot/anamenu.png" class="img-fluid"> 
+  </div>
+  
+  <div class="col-md-6">
+   <h3>Login</h3>
+   <p>test</p>
+    <img src="screenshot/mahalle2.png" alt="Screenshot 2" class="img-fluid">
   </div>
   <div class="col-md-6">
    <h3>test</h3>
-    <img src="screenshot/anamenu.png" alt="Screenshot 2" class="img-fluid">
-
-    <p>Screenshot 2 Açıklaması</p>
-  </div>
-  <div class="col-md-6">
-   <h3>test</h3>
-    <img src="screenshot/anamenu.png" alt="Screenshot 2" class="img-fluid">
-
-    <p>Screenshot 2 Açıklaması</p>
+   <p>test</p>
+    <img src="screenshot/mahalle3.png" " class="img-fluid">
   </div>
  <div class="col-md-6">
   <h3>test</h3>
+  <p>test</p>
   <img src="screenshot/anamenu.png" alt="Screenshot 2" class="img-fluid">
  
-  <p>ss</p>
+  
 </div>
