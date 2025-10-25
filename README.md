@@ -1,4 +1,4 @@
-# GCMA - Turkiye
+# GCMA - Turkiyer 
 
  Global Crisis Management Application
 
