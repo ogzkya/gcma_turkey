@@ -1,5 +1,4 @@
-# GCMA - Turkiyer v1.1.8.2982211337
-
+# GCMA - Turkiyer v1.1.8
  Global Crisis Management Application
 
 <div class="row">
