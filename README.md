@@ -1,5 +1,5 @@
 2# GCMA - Turkiyer v1.12
- Global Crisis Management Application
+ Globnal Crisis Management Application
 
 <div class="row">
   <div class="col-md-12">
